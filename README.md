@@ -1,0 +1,1 @@
+YOU NEED TO INSTALL THE R LIBRARY BARK FROM https://merliseclyde.github.io/bark/ TO RUN THE CODES IN THIS FOLDER.
